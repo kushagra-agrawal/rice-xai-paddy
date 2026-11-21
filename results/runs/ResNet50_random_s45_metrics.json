@@ -1,0 +1,17 @@
+{
+  "tag": "ResNet50_random_s45",
+  "model": "ResNet50",
+  "seed": 45,
+  "n_train": 7744,
+  "best_epoch": 10,
+  "epochs_run": 12,
+  "train_minutes": 7.1135924855868025,
+  "fingerprint": "4bcd93eb3fd8b4922bfae2e9abc0a7ca",
+  "n": 1550,
+  "correct": 1485,
+  "accuracy": 0.9580645161290322,
+  "macro_precision": 0.9524855832860422,
+  "macro_recall": 0.946757328513311,
+  "macro_specificity": 0.9952607154612174,
+  "macro_f1": 0.9494805875472192
+}

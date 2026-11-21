@@ -1,0 +1,17 @@
+{
+  "tag": "DCNN_s42",
+  "model": "DCNN",
+  "seed": 42,
+  "n_train": 7749,
+  "best_epoch": 12,
+  "epochs_run": 12,
+  "train_minutes": 4.9871084968249,
+  "fingerprint": "aec7c4c08615022c6f8254c1dd3e7772",
+  "n": 1550,
+  "correct": 1166,
+  "accuracy": 0.752258064516129,
+  "macro_precision": 0.7468960674651269,
+  "macro_recall": 0.6716102968890085,
+  "macro_specificity": 0.9715498621587066,
+  "macro_f1": 0.6900162334547237
+}

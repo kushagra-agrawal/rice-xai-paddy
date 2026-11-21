@@ -1,0 +1,17 @@
+{
+  "tag": "GoogLeNet_s42",
+  "model": "GoogLeNet",
+  "seed": 42,
+  "n_train": 7749,
+  "best_epoch": 11,
+  "epochs_run": 12,
+  "train_minutes": 4.922534696261088,
+  "fingerprint": "aec7c4c08615022c6f8254c1dd3e7772",
+  "n": 1550,
+  "correct": 1450,
+  "accuracy": 0.9354838709677419,
+  "macro_precision": 0.9324236855320269,
+  "macro_recall": 0.9255222398626751,
+  "macro_specificity": 0.9926763805443614,
+  "macro_f1": 0.9286374613219351
+}

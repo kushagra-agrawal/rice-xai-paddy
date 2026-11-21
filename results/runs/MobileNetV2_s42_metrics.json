@@ -1,0 +1,17 @@
+{
+  "tag": "MobileNetV2_s42",
+  "model": "MobileNetV2",
+  "seed": 42,
+  "n_train": 7749,
+  "best_epoch": 11,
+  "epochs_run": 12,
+  "train_minutes": 5.0049427111943565,
+  "fingerprint": "aec7c4c08615022c6f8254c1dd3e7772",
+  "n": 1550,
+  "correct": 1472,
+  "accuracy": 0.9496774193548387,
+  "macro_precision": 0.9481851247838445,
+  "macro_recall": 0.9407153243528293,
+  "macro_specificity": 0.9942375070188781,
+  "macro_f1": 0.9440178905306815
+}
