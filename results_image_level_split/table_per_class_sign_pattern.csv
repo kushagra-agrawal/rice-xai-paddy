@@ -1,0 +1,7 @@
+scope,positive,negative,zero,total
+mean over 5 seeds,12,25,3,40
+seed 42,13,26,1,40
+seed 43,13,24,3,40
+seed 44,15,15,10,40
+seed 45,10,25,5,40
+seed 46,12,21,7,40

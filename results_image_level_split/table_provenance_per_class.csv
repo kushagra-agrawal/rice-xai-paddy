@@ -1,0 +1,12 @@
+class,source_files,unique_kept,removed_duplicates
+bacterial_leaf_blight,479,471,8
+bacterial_leaf_streak,380,380,0
+bacterial_panicle_blight,337,336,1
+blast,1738,1728,10
+brown_spot,965,953,12
+dead_heart,1442,1429,13
+downy_mildew,620,618,2
+hispa,1594,1589,5
+normal,1764,1749,15
+tungro,1088,1080,8
+TOTAL,10407,10333,74

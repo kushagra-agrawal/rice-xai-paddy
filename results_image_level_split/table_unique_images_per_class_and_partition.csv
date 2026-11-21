@@ -1,0 +1,12 @@
+class,train,val,test,total
+bacterial_leaf_blight,353,47,71,471
+bacterial_leaf_streak,285,38,57,380
+bacterial_panicle_blight,251,34,51,336
+blast,1296,173,259,1728
+brown_spot,715,95,143,953
+dead_heart,1072,143,214,1429
+downy_mildew,463,62,93,618
+hispa,1192,159,238,1589
+normal,1312,175,262,1749
+tungro,810,108,162,1080
+TOTAL,7749,1034,1550,10333
