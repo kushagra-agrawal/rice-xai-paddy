@@ -1,0 +1,11 @@
+uid,true,baseline_pred,baseline_conf,refined_pred,refined_conf
+bacterial_leaf_blight/100023.jpg,bacterial_leaf_blight,bacterial_leaf_blight,0.9944860339164734,bacterial_leaf_blight,0.9994367957115173
+bacterial_leaf_streak/100145.jpg,bacterial_leaf_streak,bacterial_leaf_streak,0.999261200428009,bacterial_leaf_streak,0.9999219179153442
+bacterial_panicle_blight/100068.jpg,bacterial_panicle_blight,bacterial_panicle_blight,0.9572721123695374,bacterial_panicle_blight,0.9892655611038208
+blast/100039.jpg,blast,blast,0.999760091304779,blast,0.9998881816864014
+brown_spot/100022.jpg,brown_spot,brown_spot,0.9985707998275757,brown_spot,0.9999892711639404
+dead_heart/100008.jpg,dead_heart,dead_heart,0.9992775321006775,dead_heart,0.999828577041626
+downy_mildew/100059.jpg,downy_mildew,downy_mildew,0.843228816986084,downy_mildew,0.9898449182510376
+hispa/100072.jpg,hispa,hispa,0.8706346154212952,hispa,0.9945353269577026
+normal/100002.jpg,normal,normal,0.9953994154930115,normal,0.9874048829078674
+tungro/100024.jpg,tungro,tungro,0.9986103773117065,tungro,0.9990236759185791

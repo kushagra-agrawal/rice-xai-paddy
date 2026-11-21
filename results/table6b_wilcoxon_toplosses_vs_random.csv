@@ -1,0 +1,2 @@
+test,seeds,mean_gain_toplosses,mean_gain_random,seeds_toplosses_better,seeds_random_better,seeds_tied,statistic,p_value,smallest_reachable_p
+"Wilcoxon signed-rank, gain(Top Losses) vs gain(random)",5,0.00683870967741933,0.0046451612903225525,3,2,0,4.5,0.5,0.0625
