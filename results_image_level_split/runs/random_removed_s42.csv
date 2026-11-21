@@ -1,0 +1,6 @@
+seed,uid,true_label
+42,normal/101681.jpg,normal
+42,brown_spot/110144.jpg,brown_spot
+42,blast/101244.jpg,blast
+42,brown_spot/108356.jpg,brown_spot
+42,bacterial_leaf_blight/101731.jpg,bacterial_leaf_blight

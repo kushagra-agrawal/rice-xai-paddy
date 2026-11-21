@@ -1,0 +1,6 @@
+seed,uid,true_label
+44,bacterial_leaf_blight/102667.jpg,bacterial_leaf_blight
+44,normal/108234.jpg,normal
+44,normal/104600.jpg,normal
+44,tungro/110263.jpg,tungro
+44,blast/109603.jpg,blast
