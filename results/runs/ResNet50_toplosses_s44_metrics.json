@@ -1,0 +1,17 @@
+{
+  "tag": "ResNet50_toplosses_s44",
+  "model": "ResNet50",
+  "seed": 44,
+  "n_train": 7744,
+  "best_epoch": 10,
+  "epochs_run": 12,
+  "train_minutes": 7.116427195072174,
+  "fingerprint": "fab5997b76d97209ffc1d2f495af1c66",
+  "n": 1550,
+  "correct": 1480,
+  "accuracy": 0.9548387096774194,
+  "macro_precision": 0.9560480808078454,
+  "macro_recall": 0.9491978110779324,
+  "macro_specificity": 0.9948282884525137,
+  "macro_f1": 0.9523195556335662
+}

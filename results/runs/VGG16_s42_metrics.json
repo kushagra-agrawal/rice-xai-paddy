@@ -1,0 +1,17 @@
+{
+  "tag": "VGG16_s42",
+  "model": "VGG16",
+  "seed": 42,
+  "n_train": 7749,
+  "best_epoch": 7,
+  "epochs_run": 11,
+  "train_minutes": 13.427530944347382,
+  "fingerprint": "aec7c4c08615022c6f8254c1dd3e7772",
+  "n": 1550,
+  "correct": 1420,
+  "accuracy": 0.9161290322580645,
+  "macro_precision": 0.9121429811663317,
+  "macro_recall": 0.9027032779145241,
+  "macro_specificity": 0.9905012714585141,
+  "macro_f1": 0.9068182114126296
+}

@@ -1,0 +1,17 @@
+{
+  "tag": "Xception_s42",
+  "model": "Xception",
+  "seed": 42,
+  "n_train": 7749,
+  "best_epoch": 6,
+  "epochs_run": 10,
+  "train_minutes": 9.857392879327138,
+  "fingerprint": "aec7c4c08615022c6f8254c1dd3e7772",
+  "n": 1550,
+  "correct": 1468,
+  "accuracy": 0.9470967741935484,
+  "macro_precision": 0.9445799671136441,
+  "macro_recall": 0.9363249086926831,
+  "macro_specificity": 0.9939697925712171,
+  "macro_f1": 0.9401807034123261
+}
